@@ -1,2 +1,2 @@
 # GoogleMapScrapper
-This is a tool used to scrap google maps's business listing. 
+This is a console application used to scrap google maps's business listing. 
